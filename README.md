@@ -1,0 +1,2 @@
+# Traversing_Maze
+-Simulated a  graph using ones and zeros in a maze. The motivation is to find a path of one’s that will lead us to the end of the maze. -Implemented a backing tracking algorithm  in C++ that allows us to traverse the maze and backtrack to previous locations in the event we are at a  deadend in the maze. -Utilized  the “last one in , last one out” functionality of a stack data structure which enables us to keep track of the most recently added item to the path. 
