@@ -1,6 +1,4 @@
-//
-// Created by Ali A. Kooshesh on 2020-01-19.
-//
+
 using namespace std;
 #include <iostream>
 #include <fstream>
